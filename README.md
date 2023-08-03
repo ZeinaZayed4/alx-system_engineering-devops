@@ -1,1 +1,11 @@
-# alx-system_engineering-devops
+chmod
+sudo
+su
+chown
+chgrp
+id
+groups
+whoami
+adduser
+useradd
+addgroup
